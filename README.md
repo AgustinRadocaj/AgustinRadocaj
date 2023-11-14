@@ -1,4 +1,4 @@
-<span style="color:872341;">### Hola mi nombre es Agustin Radocaj
+<span style="color:872341;">### Hola mi nombre es Agustin Radocaj</span>
 
 Soy un desarrollador FullStack graduado de Henry, actualmente buscando mi primera experiencia laboral en el mercado Tech.
 
