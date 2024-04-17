@@ -4,7 +4,7 @@ Soy un desarrollador FullStack graduado de Henry, actualmente buscando mi primer
 
 ### Tecnologias
 
-React.js - Vite.js - JavaScript - Node.js - MySQL - HTML - CSS - C#
+React.js - Vite.js - JavaScript - Node.js - MySQL - HTML - CSS - Python
 
 ### Experiencia Academica
 
